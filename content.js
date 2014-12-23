@@ -134,7 +134,7 @@ function drw(cnf, e) {
 	cls.style.position = 'absolute';
 	cls.style.bottom = '100%';
 	cls.style.right = '0px';
-	cls.innerHTML = 'fechar';
+	cls.innerHTML = 'close';
 	div.appendChild(cls);
 	
 	clr.type = 'color';
